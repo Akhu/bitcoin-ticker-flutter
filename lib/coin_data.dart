@@ -1,3 +1,4 @@
+const coinAPIKey = '401C557E-7FED-4826-9997-51E47F4E5131';
 const List<String> currenciesList = [
   'AUD',
   'BRL',
@@ -29,3 +30,4 @@ const List<String> cryptoList = [
 ];
 
 class CoinData {}
+
